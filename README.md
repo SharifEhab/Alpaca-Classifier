@@ -1,4 +1,5 @@
 # Alpaca Classifier with MobileNetV2 Transfer Learning
+This is one of AndrewNg Programming Assignments from the DL Specialization
 
 This task demonstrates how to adapt the MobileNetV2 model, pre-trained on the ImageNet dataset, for a custom image classification task. Using transfer learning techniques, the model was fine-tuned for improved accuracy on a specific dataset.
 
